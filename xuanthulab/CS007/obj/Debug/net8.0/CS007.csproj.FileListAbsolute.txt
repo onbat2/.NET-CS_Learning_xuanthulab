@@ -1,0 +1,15 @@
+C:\Users\quang\OneDrive\Máy tính\.NET_CS-Learning\xuanthulab\CS007\bin\Debug\net8.0\CS007.exe
+C:\Users\quang\OneDrive\Máy tính\.NET_CS-Learning\xuanthulab\CS007\bin\Debug\net8.0\CS007.deps.json
+C:\Users\quang\OneDrive\Máy tính\.NET_CS-Learning\xuanthulab\CS007\bin\Debug\net8.0\CS007.runtimeconfig.json
+C:\Users\quang\OneDrive\Máy tính\.NET_CS-Learning\xuanthulab\CS007\bin\Debug\net8.0\CS007.dll
+C:\Users\quang\OneDrive\Máy tính\.NET_CS-Learning\xuanthulab\CS007\bin\Debug\net8.0\CS007.pdb
+C:\Users\quang\OneDrive\Máy tính\.NET_CS-Learning\xuanthulab\CS007\obj\Debug\net8.0\CS007.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quang\OneDrive\Máy tính\.NET_CS-Learning\xuanthulab\CS007\obj\Debug\net8.0\CS007.AssemblyInfoInputs.cache
+C:\Users\quang\OneDrive\Máy tính\.NET_CS-Learning\xuanthulab\CS007\obj\Debug\net8.0\CS007.AssemblyInfo.cs
+C:\Users\quang\OneDrive\Máy tính\.NET_CS-Learning\xuanthulab\CS007\obj\Debug\net8.0\CS007.csproj.CoreCompileInputs.cache
+C:\Users\quang\OneDrive\Máy tính\.NET_CS-Learning\xuanthulab\CS007\obj\Debug\net8.0\CS007.sourcelink.json
+C:\Users\quang\OneDrive\Máy tính\.NET_CS-Learning\xuanthulab\CS007\obj\Debug\net8.0\CS007.dll
+C:\Users\quang\OneDrive\Máy tính\.NET_CS-Learning\xuanthulab\CS007\obj\Debug\net8.0\refint\CS007.dll
+C:\Users\quang\OneDrive\Máy tính\.NET_CS-Learning\xuanthulab\CS007\obj\Debug\net8.0\CS007.pdb
+C:\Users\quang\OneDrive\Máy tính\.NET_CS-Learning\xuanthulab\CS007\obj\Debug\net8.0\CS007.genruntimeconfig.cache
+C:\Users\quang\OneDrive\Máy tính\.NET_CS-Learning\xuanthulab\CS007\obj\Debug\net8.0\ref\CS007.dll
