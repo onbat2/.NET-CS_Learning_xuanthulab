@@ -5,3 +5,4 @@
 - CS005: Lệnh, cấu trúc rẽ nhánh với if else
 - CS006: Rẽ nhánh với lệnh switch case, lệnh goto
 - CS007: Vòng lặp for, while, do while và lệnh break, lệnh continue
+- CS008: Cấu trúc dữ liệu mảng (array)
